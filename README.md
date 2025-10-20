@@ -20,3 +20,24 @@ Create a simple, responsive landing page using HTML & CSS that includes a header
 ✅ VS Code (for coding)
 ✅ Live Server Extension (for real-time preview)
 ✅ Google Chrome (for testing responsiveness)
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Hero Section
+![Hero Section Screenshot](assets/screenshots/hero-section.png)
+
+### 💡 About Section
+![About Section Screenshot](assets/screenshots/about-section.png)
+
+### ⭐ Features Section
+![Features Section Screenshot](assets/screenshots/about-section.png)
+
+### 💬 Testimonials Section
+![Testimonials Section Screenshot](assets/screenshots/testimonials-section.png)
+
+### 📞 Call-to-Action & Footer
+![Footer Screenshot](assets/screenshots/footer-section.png)
+
+---
