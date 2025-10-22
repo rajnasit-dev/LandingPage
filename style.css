@@ -128,7 +128,8 @@ video {
   border-radius: 25px;
   font-weight: bold;
   text-decoration: none;
-  transition: 0.3s;
+  transition: 0.1s;
+  display: inline-block; 
 }
 
 .hero a:hover {
@@ -136,6 +137,9 @@ video {
   color: white;
 }
 
+.hero a:active {
+  transform: scale(0.9);
+}
 /* ---------- About Section ---------- */
 .about {
   background: #f9f9f9;
@@ -232,6 +236,9 @@ video {
   text-align: center;
   padding: 80px 20px;
 }
+
+
+
 .cta h2 {
   font-size: 2rem;
   margin-bottom: 15px;
@@ -247,10 +254,15 @@ video {
   border-radius: 25px;
   text-decoration: none;
   font-weight: bold;
+  transition: all 0.1s;
+  display: inline-block; 
 }
 .cta a:hover {
   background: #4ebda8;
   color: white;
+}
+.cta a:active {
+  transform: scale(0.9);
 }
 
 /* ===== FOOTER ===== */

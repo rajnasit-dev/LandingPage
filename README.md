@@ -10,6 +10,7 @@ Create a simple, responsive landing page using HTML & CSS that includes a header
 ✅ Background video in the hero section
 ✅ Clean and modern layout using Flexbox & Grid
 ✅ Interactive navigation bar
+✅ Smooth scrolling and animations using Lenis and GSAP
 ✅ About, Features, Testimonials, and Call-to-Action sections
 ✅ Footer with useful links and social media handles
 
@@ -17,9 +18,17 @@ Create a simple, responsive landing page using HTML & CSS that includes a header
 
 ✅ HTML5
 ✅ CSS3 (Flexbox, Grid, Media Queries)
+✅ GSAP (for smooth animations and transitions)
+✅ Lenis (for smooth scroll behavior)
 ✅ VS Code (for coding)
 ✅ Live Server Extension (for real-time preview)
 ✅ Google Chrome (for testing responsiveness)
+
+⚡ Additional Enhancements
+
+✨ Integrated GSAP for smooth fade-ins, slide animations, and scroll-triggered effects.
+✨ Added Lenis for buttery-smooth scrolling and improved user experience.
+✨ Polished transitions between sections for a more dynamic and modern look.
 
 ---
 
